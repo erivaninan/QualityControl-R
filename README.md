@@ -16,22 +16,15 @@ Après avoir appliqué tous les tests, faire varier n (= taille de l'échantillo
 
 - **`2. TD Cartes de contrôle`**
   Construction de cartes x̄ et R pour suivre la stabilité d’un processus.
-  
   Étude de la normalité des données via QQ plot.
-  
   Cartes de non-conformité (p, c, t) et utilisation des lois binomiale et de Poisson.
-  
   Estimation et comparaison de l’écart-type avec différentes méthodes.
-  
   Capabilité du processus et calcul du Cpk.
   
 - **`3. TD CUSUM`**
    Construction et analyse de cartes CUSUM pour détecter des dérives.
-  
    Comparaison avec cartes EWMA et moyenne mobile.
-  
    Étude de l’auto-corrélation et son impact sur la surveillance du processus.
-  
    Utilisation de modèles AR(2) pour améliorer la détection des dérives.
 
 - **`4. TD Échantillonnage`**
