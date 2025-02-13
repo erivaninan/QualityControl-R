@@ -12,7 +12,7 @@ Consigne : Simulation d'une loi (dans mon cas la loi uniforme sur [0,3]), puis a
    1) avec H0 proche de la vérité
    2) avec H0 loin de la vérité
   
-Après avoir appliqué tous les tests, faire varier n (= taille de l'échantillon), répéter M fois (simulation et test) pour analyser les probabilités empiriques de test et de rejet.
+Après avoir effectué les tests statistique, faire varier n (= taille de l'échantillon), répéter M fois (simulation et test) pour analyser les probabilités empiriques de test et de rejet.
 
 - **`2. TD Cartes de contrôle`**
   Construction de cartes x̄ et R pour suivre la stabilité d’un processus.
