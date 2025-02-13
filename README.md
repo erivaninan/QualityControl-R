@@ -1,6 +1,7 @@
 # QualityControl-R 🌟
 
 Ce répertoire a été conçu dans le cadre d'un cours de contrôle qualité délivré en M2 à Sorbonne Université.
+L'entièreté du répertoire a été codé en langage R.
 
 Il contient 4 TD ainsi qu'un projet, couvrant les thèmes suivants : 
 
